@@ -1,0 +1,16 @@
+{
+  "short_name": "مؤسسة المهوس",
+  "name": "مؤسسة سليمان محمد زيد المهوس لخدمات السيارات",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0891b2",
+  "background_color": "#111827",
+  "description": "واجهة لإدارة مؤسسة سليمان محمد زيد المهوس لخدمات السيارات تدعم البحث الصوتي."
+}
